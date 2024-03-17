@@ -3,12 +3,13 @@ layout: post
 title: "Everything You Need to Know Before Traveling to China"
 categories: before 
 image: beihai.jpg
+date: 2024-03-17
 ---
 China is a fascinating country with a rich history, vibrant culture, and stunning landscapes. If you are planning to visit China, it's essential to be well-prepared to make the most of your trip. Here's a comprehensive guide to help you navigate your way through China:
 
 ## Visa Requirements
 
-Before traveling to China, check the visa requirements for your country. Most visitors will need a tourist visa (L visa) to enter China. Make sure to apply for your visa well in advance and provide all the necessary documents.
+Before traveling to China, check the visa requirements for your country. Most visitors will need a tourist visa (L visa) to enter China. Make sure to apply for your visa well in advance and provide all the necessary documents. For more detailed info, please refer to [visa requirements](../pages/visa).
 
 ## Best Time to Visit
 
