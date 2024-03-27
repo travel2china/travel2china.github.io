@@ -9,7 +9,9 @@ China is a fascinating country with a rich history, vibrant culture, and stunnin
 
 ## Visa Requirements
 
-Before traveling to China, check the visa requirements for your country. Most visitors will need a tourist visa (L visa) to enter China. Make sure to apply for your visa well in advance and provide all the necessary documents. For more detailed info, please refer to [visa requirements](../pages/visa).
+Before traveling to China, check the visa requirements for your country. Most visitors will need a tourist visa (L visa) to enter China. Make sure to apply for your visa well in advance and provide all the necessary documents.
+
+For more detailed info, please refer to [visa requirements](../pages/visa).
 
 ## Best Time to Visit
 
@@ -22,6 +24,8 @@ The official language in China is Mandarin Chinese. While English may be spoken 
 ## Currency and Money Matters
 
 The official currency in China is the Chinese Yuan (CNY). Credit cards are widely accepted in urban areas, but it's advisable to carry some local currency for smaller establishments and rural areas. ATMs are readily available, and currency exchange services can be found at airports, hotels, and banks.
+
+Refer to [this page](../pages/payment) for e-payment setup.
 
 ## Health and Safety
 
